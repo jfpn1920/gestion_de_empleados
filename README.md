@@ -7,7 +7,7 @@ Este proyecto consiste en un sistema desarrollado en Python que permite gestiona
 
 El programa no solo almacena datos, sino que también permite realizar operaciones clave como el cálculo del total de salarios y la aplicación de aumentos porcentuales de forma automática. Esto simula un escenario real dentro de una empresa donde se requiere administrar información del personal y realizar ajustes salariales de manera eficiente.
 
-Además, el proyecto está diseñado bajo los principios de Programación Orientada a Objetos (POO), promoviendo una estructura modular, reutilizable y escalable. La implementación de clases, métodos y bucles permite comprender cómo organizar mejor el código, facilitando su mantenimiento y futuras mejoras.
+Además, el proyecto está diseñado bajo los principios de Programación Orientada a Objetos (POO), promoviendo una estructura modular, reutilizable y escalable. 
 
 #
 ### 🧑‍💻 Lenguaje de programacion
